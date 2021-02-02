@@ -1,0 +1,80 @@
+[
+     {
+          "idFood" : 1,
+          "nameFood" : "Instant Oat / Quick Rolled Oat 500gr",
+          "imgFood" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-7903132/oat_-_oat_instant_oats_500gr_-_oatmeal_organic_-_sereal_oat_full01_ox6eq7yu.jpg",
+          "descriptionFood" :"Rolled oat adalah oat/gandum yang masih kasar . Ukurannya lebih besar dari pada oatmeal yang biasanya. Oat ini sudah lama terkenal sangat baik untuk memelihara kesehatan jantung. Tapi ternyata tidak hanya itu saja , ada beberapa manfaat dari Regular Rolled oat / gandum kasar.",
+          "hargaFood" : "Rp27.500"
+     },
+
+     {
+          "idFood" : 2,
+          "nameFood" : "Grande Granola Chocolate and Peanut Butter 230gr",
+          "descriptionFood" : "Apakah Anda seorang pencinta granola coklat? Grande Granola Chocolate Peanut Butter akan menyajikan seni dalam menciptakan rasa granola cokelat yang enak. Cokelat premium dan oat gulung bernutrisi dikemas dalam satu kemasan untuk memberi Anda sarapan yang memuaskan. Untuk menambah kenikmatan Anda, sentuhan selai kacang dihadirkan untuk menciptakan kombinasi rasa yang tidak akan pernah Anda tahan. Dikemas dengan serat dan setrika untuk menjaga berat badan yang sehat dan memperkuat sistem kekebalan, kami mempersiapkan Anda untuk siap sepenuhnya menjalani hari. Anda dapat dengan mudah menikmati granola ini: sajikan sebagai camilan atau sarapan dengan buah-buahan dan susu. Jangan pernah melewatkan sarapan sehat Anda dan kesuksesan Anda akan segera datang! Tetap tenang dan nikmati Grande Granola Chocolate Peanut Butter!",
+          "imgFood" : "https://ecs7.tokopedia.net/img/cache/700/hDjmkQ/2020/10/15/12b37e45-b25a-42dd-a1a4-906631677623.jpg"
+     },
+
+     {
+          "idFood" : 3,
+          "nameFood" : "Grande Granola French Vanila Almond 230gr",
+          "imgFood" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//100/MTA-9990261/no_brand_grande_granola_french_vanila_almond_230gr_-_sarapan_sehat_full01_guwjc255.jpg",
+          "hargaFood" : "Rp25.900"
+     },
+
+     {
+          "idFood" : 4,
+          "nameFood" : "Grande Granola Fruits and Seeds 230gr",
+          "imgFood" : "https://ecs7.tokopedia.net/img/cache/700/attachment/2021/1/22/65580410/65580410_a5044a67-c6dc-4070-98fd-73f8d25cfdec.jpg",
+          "descriptionFood" : "Grande Granola French Vanilla Almond kami adalah cara terbaik untuk memulai hari. Dikemas dengan nutrisi dan manfaat alami yang menakjubkan untuk tubuh Anda, seperti serat dan setrika! Serat membantu tubuh Anda mempertahankan berat badan yang sehat, menurunkan kadar kolesterol, dan meningkatkan kesehatan pencernaan. Zat besi membantu membangun konsentrasi, mengobati insomnia, dan juga memperkuat sistem kekebalan kita. Kacang almond yang renyah dan sentuhan French Vanilla yang luar biasa dalam satu bungkus Grande Granola akan menyajikan sarapan dan camilan lezat untuk Anda! Sempurna sebagai camilan dan bisa dipadankan dengan buah-buahan, sereal, susu, atau yogurt untuk dijadikan sarapan terbaik. Mulailah hari Anda dengan satu-satunya cara sehat terbaik dengan Grande Granola French Vanilla.",
+          "hargaFood" : "Rp20.000"
+     },
+
+     {
+          "idFood" : 5,
+          "nameFood" : "Greenara Gula Aren Organik 500gr",
+          "imgFood" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//113/MTA-9998707/greenara_greenara_gula_aren_organik_250gr_full01_euw5185h.jpg",
+          "descriptionFood" : "Product of Indonesia. Pemanis organik untuk: Kopi, teh, susu, coklat, sereal, cincau, es kelapa muda, kecang hijau, dll.Minum herbal: Jahe, beras kencur, temu lawak dll.Aneka kue basah, kue kering, roti dll.         Penyedap aneka masakan. " ,
+          "hargaFood" : "Rp32.000"
+     },
+
+     {
+          "idFood" : 6,
+          "nameFood" : "Van Landa Potato Chips | Snak",
+          "imgFood" : "https://sirclocdn.com/namaste-organic/products/_200205175037_VAN%20LANDA%20ORI%20BESAR_full.jpg",
+          "descriptionFood" : "Keripik kentang Van Landa SALT & BLACKPEPPER racikan resep terbaru memiliki rasa yang khas dan sangat disukai oleh kalangan expatriat maupun wisatawan asing. Dibuat dalam lingkungan yang higienis yang menerapkan SSOP demi keamanan pangan. Dibuat dari bahan baku kentang yang ditanam sendiri serta hanya menggunakan bahan-bahan alami",
+          "hargaFood" : "Rp20.500"
+
+     },
+
+     {
+          "idFood" : 7,
+          "nameFood" : "East Ball Cashews Rosella Tea",
+          "imgFood" : "https://cf.shopee.co.id/file/e51fb55657b79f3fe4da9daac401c59c",
+          "descriptionFood" : "" ,
+          "hargaFood" : "Rp41.500"
+     },
+
+     {
+          "idFood" : 8,
+          "nameFood" : "Kongbap Multi Grain Mix Habbatussauda 15gr",
+          "imgFood" : "https://nourishindonesia.com/image/cache/catalog/095/beras/KONGBAB%20ITEM-550x550.jpg",
+          "descriptionFood" : "Kongbap Multi Grain Mix Habbatussaud  Berasal dari tradisi Korea dan Jepang yang diolah dan disesuaikan dengan teknologi modern sehingga menghasilkan bahan campuran beras yang meningkatkan kandungan serat dan gizi nasi yang kita konsumsi sehari-hari. Kongbap Multi Grain Mix terdiri dari berbagai biji-bijian, antara lain : beras merah, beras hitam, beras ketan, kacang hijau, basil, wijen, millet, barley, jagung yang telah teruji memberikan manfaat yang lebih baik dibanding mengonsumsi beras putih saja.  Kongbap Multi Grain Mix baik untuk memperlancar pencernaan, mengurangi resiko diabetes, menjaga tekanan darah, mengurangi kadar kolesterol dalam tubuh dan banyak manfaat lainnya.",
+          "hargaFood" : "Rp32.500"
+     },
+
+     {
+          "idFood" : 9,
+          "nameFood" : "Paket Madu Uray Stick",
+          "imgFood" : "https://ecs7.tokopedia.net/img/cache/500-square/hDjmkQ/2020/11/25/17119a2b-feb6-48ea-8345-a867a2f65bad.jpg",
+          "descriptionFood" : "Uray Honey Sticks 100% madu mentah murni yang diperoleh lebah hutan (Apis Dorsata) dari nektar bunga yang tumbuh di hutan dipadu dengan kehangatan jahe untuk kebaikan ekstra. Diproses secara higienis dan penuh kehati-hatian agar seluruh nutrisi tetap terjaga sampai ke tangan konsumen.",
+          "hargaFood" : "Rp62.500"
+     },
+
+     {
+          "idFood" : 10,
+          "nameFood" : "Explore Cuisine - Organic Pasta 200gr",
+          "imgFood" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/10/2/batch-upload/batch-upload_8ae3c174-da22-4ee5-ab08-c405a0bd5603",
+          "descriptionFood" : "Explore Cuisine Organic Edamame Spaghetti merupakan pasta nabati dengan nutrisi seimbang yang cocok dikonsumsi anak-anak karena rasanya yang ringan. Pasta ini sangat cocok dimasak dengan saus jamur atau ditumis dengan minyak zaitun.",
+          "hargaFood" : "Rp12.500"
+     }
+]
