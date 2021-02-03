@@ -46,6 +46,7 @@ code {
   color: #01837b;
 }
 
+/* // NAVBAR ================================================================================================== */
 .navbar {
   color: white;
   position: relative;
@@ -76,11 +77,48 @@ code {
 }
 
 .navbar button {
-  background-color: indianred;
+  overflow: hidden;
 }
 
 .navbar button .navbar-toggler-icon {
-  background-color: green;
-  border-radius: 50%;
+  background-color: white;
+  border-radius: 190% 0 0 0;
+}
+
+/* // Responsive ============================================================================ */
+@media (max-width: 992px) {
+  .navbar a {
+    font-size: 10px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar .navbar-brand {
+    width: 35%;
+  }
+  .navbar .nav-link {
+    margin-top: 10px;
+  }
+}
+
+.cardProduct img {
+  width: 100%;
+  height: 400px;
+}
+
+.cardProduct .card-body {
+  padding: 10px 5px;
+}
+
+.cardProduct p {
+  font-size: 17px;
+}
+
+.cardProduct span {
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: red;
+  font-weight: 700;
+  font-style: italic;
 }
 /*# sourceMappingURL=index.css.map */
